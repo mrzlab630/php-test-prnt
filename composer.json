@@ -1,11 +1,18 @@
 {
     "name": "mrzlab630/php-test-prnt",
     "description": "print_r function wrapper with additional information for debugging",
+    "license": "MIT",
+    "homepage": "https://github.com/mrzlab630/php-test-prnt",
+    "keywords":          [
+        "php",
+        "debug"
+    ],
     "authors": [
         {
             "name": "mrZ",
             "email": "mrzlab630@gmail.com"
         }
     ],
+    "minimum-stability": "stable",
     "require": {}
 }
