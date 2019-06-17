@@ -8,7 +8,7 @@
             "type": "package",
             "package": {
                 "name": "mrzlab630/php-test-prnt",
-                "version": "1.0.0",
+                "version": "v1.0.0",
                 "dist": {
                     "url": "https://github.com/mrzlab630/php-test-prnt/archive/v1.0.0.zip",
                     "type": "zip"
@@ -17,9 +17,6 @@
                     "url": "https://github.com/mrzlab630/php-test-prnt",
                     "type": "git",
                     "reference": "master/v1.0.0"
-                },
-                "autoload": {
-                    "classmap": ["src/phptestprnt/"]
                 }
             }
         }],
@@ -28,7 +25,7 @@
         "debug"
     ],
     "stability":"stable",
-    "version":"1.0.0",
+    "version":"v1.0.0",
     "authors": [
         {
             "name": "mrZ",
