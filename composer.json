@@ -7,6 +7,9 @@
         "php",
         "debug"
     ],
+    "stability":"stable",
+    "version":"1.0.1",
+    "minimum-stability":"dev",
     "authors": [
         {
             "name": "mrZ",
