@@ -1,0 +1,1 @@
+print_r function wrapper with additional information for debugging
