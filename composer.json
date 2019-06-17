@@ -3,6 +3,26 @@
     "description": "print_r function wrapper with additional information for debugging",
     "license": "MIT",
     "homepage": "https://github.com/mrzlab630/php-test-prnt",
+    "repositories": [
+        {
+            "type": "package",
+            "package": {
+                "name": "mrzlab630/php-test-prnt",
+                "version": "1.0.0",
+                "dist": {
+                    "url": "https://github.com/mrzlab630/php-test-prnt/archive/v1.0.0.zip",
+                    "type": "zip"
+                },
+                "source": {
+                    "url": "https://github.com/mrzlab630/php-test-prnt",
+                    "type": "git",
+                    "reference": "master/v1.0.0"
+                },
+                "autoload": {
+                    "classmap": ["src/phptestprnt/"]
+                }
+            }
+        }],
     "keywords":          [
         "php",
         "debug"
