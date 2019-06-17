@@ -1,0 +1,11 @@
+{
+    "name": "mrzlab630/php-test-prnt",
+    "description": "print_r function wrapper with additional information for debugging",
+    "authors": [
+        {
+            "name": "mrZ",
+            "email": "mrzlab630@gmail.com"
+        }
+    ],
+    "require": {}
+}
